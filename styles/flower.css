@@ -1,0 +1,164 @@
+/* common shared styles */
+.banner-content {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 20px 40px;
+}
+
+/* header related styles */
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    padding: 30px 150px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .profile-pic {
+    width: 600px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+/* all about hot-deal section */
+.hot-section {
+    padding: 180px 250px;
+    align-items: center;
+}
+
+.hot-banner {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 400px;
+    margin: 120px 0px;
+}
+
+.hot-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 20;
+}
+
+.text-primary {
+    color: #E55473;
+}
+
+.hot-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.hot-pic {
+    width: 318px;
+    height: 420px;
+    padding: 100px 400px 100px 100px;
+}
+
+/* insta section */
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 200px;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.pic-container {
+    text-align: center;
+    display: block;
+    margin-bottom: 120px;
+}
+
+/* Get The Latest Deals section */
+
+.email-btn {
+    padding: 22px 513px 22px 22px;
+    border: none;
+}
+
+.button {
+    text-align: center;
+}
+
+.back-ground {
+    background-image: url('../Rectangle\ 9.png');
+    width: 1440px;
+    margin: 0px auto;
+
+}
+
+.deals-text {
+    padding: 20px 100px;
+}
+
+/* footer */
+footer {
+    background: #111010;
+    height: 449px;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.Shop {
+    color: #FFFFFF;
+}
+
+.footer-text {
+    padding: 15px;
+    margin-top: 128px;
+}
